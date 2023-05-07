@@ -14,11 +14,11 @@ For building and running the application you need:
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the 
-`com.sp.config.ConfigServerApplication`
-'com.sp.registry.ServiceRegistryApplication'
-'com.sp.gateway.ApiGatewayApplication'
-'com.sp.department.DepartmentServiceApplication'
-'om.sp.employeeservice.EmployeeServiceApplication'
+- `com.sp.config.ConfigServerApplication`
+- 'com.sp.registry.ServiceRegistryApplication'
+- 'com.sp.gateway.ApiGatewayApplication'
+- 'com.sp.department.DepartmentServiceApplication'
+- 'om.sp.employeeservice.EmployeeServiceApplication'
 
 class from your IDE.
 
