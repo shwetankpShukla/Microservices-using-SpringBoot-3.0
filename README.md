@@ -30,11 +30,11 @@ java -jar zipkin.jar
 ```
 
 ## Port 
-Config Server : 8088
-Service Registry : 8761
-Api Gateway : 8060
-Department Service : 8081
-Employee Service : 8082
-Ziplin : 9411
+- Config Server : 8088
+- Service Registry : 8761
+- Api Gateway : 8060
+- Department Service : 8081
+- Employee Service : 8082
+- Ziplin : 9411
 
 ![image](https://user-images.githubusercontent.com/41003710/236695998-1e8bfe2c-2fe4-4221-ac3b-e6ac5cbec2a4.png)
